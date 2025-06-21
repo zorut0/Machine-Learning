@@ -1,0 +1,8 @@
+Name,Age,City,Score,Department
+Alice,24,New York,88,IT
+Bob,27,London,92,HR
+Charlie,22,Paris,85,Finance
+David,28,Berlin,78,Marketing
+Eva,,Rome,91,IT
+Frank,25,Madrid,,HR
+Grace,30,Paris,84,Finance
